@@ -3,7 +3,7 @@ title: EUROPIFY
 email: office@europify.at
 url: https://bkoehle.github.io
 description: "Das „Unabhängigen Institut für Europäische Bildung & Integration“"
-keywords: "your keywords, separated by commas"
+keywords: "europe, europify, institut, european studies"
 #skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: Bernhard Köhle
 
@@ -11,7 +11,7 @@ meta_author: Bernhard Köhle
 google_verify:
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+#bing_verify:
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
