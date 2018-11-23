@@ -34,7 +34,7 @@ color:
 footer:
   copyright: Europify
   location: Vienna
-  social: Around the Web
+  #social: Around the Web
   #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -54,6 +54,7 @@ social:
 address:
   - line: Laudongasse 44/1/9
   - line: 1080 Wien
+  - line: office@europify.at
 
 # Credits content
 #credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
