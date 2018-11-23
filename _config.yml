@@ -55,7 +55,7 @@ address:
   - line: Laudongasse 44/1/9
   - line: 1080 Wien
   - line: AUSTRIA
-  - line: office@europify.at
+  - line: office[at]europify.at
 
 # Credits content
 #credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
