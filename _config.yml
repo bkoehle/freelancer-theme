@@ -52,9 +52,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Vienna
   - line: Laudongasse 44/1/9
   - line: 1080 Wien
+  - line: AUSTRIA
   - line: office@europify.at
 
 # Credits content
